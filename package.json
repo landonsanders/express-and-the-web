@@ -1,0 +1,8 @@
+{
+    "name": "express-and-the-web",
+    "version": "0.0.0",
+    "dependencies": {
+        "express": "*",
+        "ejs": "*"
+    }
+}
